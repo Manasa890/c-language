@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+    char str[]="GANDHIAN INSTITUTE oF TECHNOLOGY AND MANAGEMENT";
+    printf("%c",str[5]);
+}
